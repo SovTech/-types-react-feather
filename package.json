@@ -1,0 +1,23 @@
+{
+  "name": "@types/react-feather",
+  "version": "1.0.0",
+  "description": "TS typings for react feather",
+  "types": "index.d.ts",
+  "main": "",
+  "private": false,
+  "scripts": {},
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "react",
+    "react-feather"
+  ],
+  "author": "Jonathan Irwin",
+  "dependencies": {
+    "react": "^16.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SovTech/-types-react-feather.git"
+  }
+}
